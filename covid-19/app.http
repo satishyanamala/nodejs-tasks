@@ -1,0 +1,12 @@
+GET http://localhost:9999/
+###
+GET http://localhost:9999/states/
+###
+GET http://localhost:9999/states/15
+###
+GET http://localhost:9999/districts/11/
+###
+GET http://localhost:9999/states/5/stats/
+###
+GET http://localhost:9999/districts/6/details/
+
